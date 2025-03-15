@@ -614,7 +614,7 @@ packages:
     hasBin: true
 
   '@nuxt/ui-pro@3.0.0':
-    resolution: {integrity: sha512-aUEN/DvMTXL5dJuigBYxxgTUQOmJh4Fxjn4TkPTegRE/7KKOdeKT4/tBrmSe96QMiFZcZDxYrjkFeniwyLkVIg==}
+    resolution: {integrity: sha512-vJyBPgdEzNcp/V+Z1Q+NIjv6AS0yxNlWyJ/H6N1dCO+CaImrBvnSOVGGyDiRdgnwcdpuR88siRh/xG4jkiIPUA==}
     peerDependencies:
       typescript: ^5.6.3
 
